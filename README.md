@@ -15,6 +15,7 @@ d.	Checking images on page load and whether they have Alt text incase of failure
 e.	Checking all the links on the page and whether they are working 
 
 2.	Sign Up page:
+
 a.	This page uses data driven testing
 
 b.	Checks with valid credentials
