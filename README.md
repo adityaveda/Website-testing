@@ -4,6 +4,7 @@ These automation scripts were created as a part of Academic Project for CMPE 287
 The test items include the following items:
 
 1.	Practice page:
+
 a.	Getting page title
 
 b.	Clicking on check box to ensure it is working
